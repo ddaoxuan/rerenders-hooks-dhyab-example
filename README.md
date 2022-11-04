@@ -1,6 +1,6 @@
 ## What this is all about?
 
-This example shows the amount of rerenders when we're calling any hook from `react-instantsearch-hooks-web` It can be viewed here [https://codesandbox.io/s/github/daxupaxu/rerenders-example](https://codesandbox.io/s/github/daxupaxu/rerenders-example)
+This example shows the amount of rerenders when we're calling any hook from `react-instantsearch-hooks-web` It can be viewed here [https://codesandbox.io/s/github/ddaoxuan/rerenders-hooks-dhyab-example](https://codesandbox.io/s/github/ddaoxuan/rerenders-hooks-dhyab-example)
 
 ## Based on
 
